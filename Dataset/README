@@ -2,5 +2,5 @@ The dataset used in this project is the Credit Card Approval Dataset, obtained f
 
 The dataset consists of two files:
 
-💠application_record.csv – Contains applicant demographic, financial, employment, and personal information.
-💠credit_record.csv – Contains applicants' credit history and account status information.
+💠**application_record.csv** – Contains applicant demographic, financial, employment, and personal information.
+💠**credit_record.csv** – Contains applicants' credit history and account status information.
